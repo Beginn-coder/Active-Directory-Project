@@ -19,3 +19,6 @@ The objective of this project is to provide hands-on experience in creating a vi
 - Ubuntu Server: Used as a Splunk server in the lab setup.
 - Microsoft Windows 10: Operating system for target machine in the lab.
 - Kali Linux: Used as an attacker machine in the lab setup.
+
+
+### Steps
