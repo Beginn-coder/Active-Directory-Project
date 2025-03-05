@@ -21,9 +21,9 @@ The objective of this project is to provide hands-on experience in creating a vi
 - Kali Linux: Used as an attacker machine in the lab setup.
 
 
-### Steps
+## Steps
 
-## Part 1- Creating the Virtual Machines
+### Part 1- Creating the Virtual Machines
 The first thing that you will need to do is install Oracle VM VirtualBox Manager 7.0 and install it with dependencies. The other thing you’ll want to do is create a folder on your system titled: Active-Directory-Project, this is where all of your .iso files will go along with Kali Linux. 
 Once done, visit https://www.microsoft.com/en-ca/software-download/windows10, get "Create Windows 10 installation media", click "Download tool now", choose "Create installation media (USB flash drive, DVD, or ISO file) for another PC", then select "ISO file" and save it to your computer. In VirtualBox, select ‘Add’ to create a new VM, give it a name and choose the downloaded Windows 10 ISO file. For the configuration, use 2 CPU’s and 409MB RAM, 50GB virtual disk and click finish. The VM will start up, follow the installation prompts, select ‘Custom: Install Windows only (advanced)’ and let Windows 10 install. 
 For Kali Linux, this can be installed 2 ways. The easiest way is to download the VM version from https://www.kali.org/ along with 7Zip, extract the kali files and import it into Virtualbox. The other method is to use a kali linux .iso file and use this link: https://www.youtube.com/watch?v=MPkni85O9JA to assist with the install. 
