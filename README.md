@@ -1,5 +1,8 @@
 # Active-Directory-Project
 
+## Acknowledgement
+Very special thank you to MYDFIR on Youtube for the tutorial. His guide was invaluable in gaining practical experience. Check his channel out at https://www.youtube.com/@MyDFIR for more tutorials. 
+
 ## Introduction
 In the world of IT and Cybersecurity, learning Active Directory is vital for professionals and designing a homelab offers hands-on experience with essential directory services. This project allows one to enhance their skills in network administration, user management, group polices. The use of homelab provides a safe environment for simulating real-world scenarios and helps to lay a solid foundation in user authentication and access control while providing practical experience in managing network infrastructures. 
 
